@@ -4,7 +4,7 @@
 
 <web-app>
   <display-name>Guestbook</display-name>
-</web-app>
+
 
 <servlet>
         <servlet-name>CustGs</servlet-name>
@@ -16,3 +16,4 @@
         <servlet-name>CustGs</servlet-name>
         <url-pattern>/subgs</url-pattern>
     </servlet-mapping>
+ </web-app>
