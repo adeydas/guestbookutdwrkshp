@@ -37,4 +37,11 @@
 			<url>http://abhis.ws:8080/nexus/content/repositories/utd_workshop/</url>
 		</repository>
 	</distributionManagement>
+
+	<repositories>
+		<repository>
+			<id>utd_workshop</id>
+			<url>http://abhis.ws:8080/nexus/content/repositories/utd_workshop/</url>
+		</repository>
+	</repositories>
 </project>

@@ -13,6 +13,6 @@
     </servlet>
 
     <servlet-mapping>
-        <servlet-name>LoginStaff</servlet-name>
-        <url-pattern>/loginstaff</url-pattern>
+        <servlet-name>CustGs</servlet-name>
+        <url-pattern>/subgs</url-pattern>
     </servlet-mapping>
